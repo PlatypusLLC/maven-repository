@@ -1,5 +1,5 @@
-maven-repository
-================
+Platypus Maven Repository
+=========================
 
 Maven repository for Platypus Java and Android libraries.
 
