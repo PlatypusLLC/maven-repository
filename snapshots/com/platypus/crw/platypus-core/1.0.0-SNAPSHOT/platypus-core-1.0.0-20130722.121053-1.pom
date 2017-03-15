@@ -135,12 +135,6 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-      <groupId>robotutils</groupId>
-      <artifactId>robotutils</artifactId>
-      <version>2.0.0</version>
-      <type>jar</type>
-    </dependency>
   </dependencies>
   
   <repositories>
